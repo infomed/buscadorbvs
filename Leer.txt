@@ -1,0 +1,3 @@
+Para la instalación del plugins "buscadorbvs v0.2.2" solo hay que revisar la configuracion hecha en el archivo config.xml que se encuentra
+en la carpeta buscadorbvs\config\.
+Cualquier duda o sugerencia puede hacerla a pavel.rivera@infomed.sld.cu.

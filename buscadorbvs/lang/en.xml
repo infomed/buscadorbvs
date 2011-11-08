@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collection>
+	<buscadobvs>Finder BVS</buscadobvs>
+	<filtrarpor>Filter By</filtrarpor>
+    <idioma>Language</idioma>
+	<es>Spanish</es>
+	<en>English</en>
+	<pt>Portuguese</pt>
+	<fr>French</fr>
+	<it>Italian</it>
+	<de>German</de>
+	<ar>Arabic</ar>
+	<ara>Arabic</ara>
+	<ko>Korean</ko>
+	<ja>Japanese</ja>
+	<bg>Bulgarian</bg>
+	<bos>Bosnian</bos>
+	<cat>Catalan</cat>
+	<ru>Russian</ru>
+	<rum>Romanian</rum>
+	<uk>Ukrainian</uk>
+	<tr>Turkish</tr>
+	<sv>Swedish</sv>
+	<srp>Serbian</srp>
+	<slo>Slovak</slo>
+	<sl>Slovenian</sl>
+	<pl>Polish</pl>
+	<no>Norwegian</no>
+	<nl>Dutch</nl>
+	<dut>Dutch</dut>
+	<lav>Latvian</lav>
+	<lit>Lithuanian</lit>
+	<ice>Icelandic</ice>
+	<hu>Hungarian</hu>
+	<hrv>Croatian</hrv>
+	<he>Hebrew</he>
+	<fin>Finnish</fin>
+	<ch>China</ch>
+	<da>Denmark</da>
+	<cs>Costa Rica</cs>
+	<textoes>Text in spanish</textoes>
+	<siguiente>Next</siguiente>
+    <anterior>Previous</anterior>
+    <autores>Author(s)</autores>
+	<fuente>Source</fuente>
+    <asunto>Subject(s)</asunto>
+	<type>Type</type>
+    <book>Monography</book>
+    <article>Article</article>
+	<monography>Monografía</monography>
+	<congress>Congress and Conference</congress>
+	<project>Document project</project>
+	<thesis>Thesis</thesis>
+	<non_conventional>Non conventional</non_conventional>
+	<internet_resource>Internet resource</internet_resource>
+	<oba>Open Educational Resources</oba>
+	<terminology>Terminology</terminology>
+	<video>Video</video>
+	<podcast>Audio</podcast>
+	<clinical_aspect>Clinical aspect</clinical_aspect>
+	<etiology>Etiology</etiology>
+	<prognosis>Prognosis</prognosis>
+	<therapy>Therapy</therapy>
+	<diagnosis>Diagnosis</diagnosis>
+	<prediction>Prediction</prediction>
+	<fulltext>Full text</fulltext>
+	<type_of_study>Type of study</type_of_study>
+	<case_reports>Case Reports</case_reports>
+	<randomized_controlled_trial>Randomized Controlled Trial</randomized_controlled_trial>
+	<incidence>Incidence Studies</incidence>
+	<prevalence>Prevalence Studies</prevalence>
+	<case_control>Case-Control Studies</case_control>
+	<cohort>Cohort studies</cohort>
+	<economic_evaluations>Economic Evaluations in Health</economic_evaluations>
+	<guideline>Practice Guideline</guideline>
+	<systematic_reviews>Systematic Reviews</systematic_reviews>
+	<technology_assessments>Health Technology Assessments</technology_assessments>
+	<clinical_trials>Controlled Clinical Trials</clinical_trials>
+    <limit>Limits</limit>
+	<humans>Humans</humans>
+	<female>Female</female>
+	<animals>Animals</animals>
+	<male>Male</male>
+	<adult>Adult</adult>
+	<middle_age>Middle age</middle_age>
+	<aged>Aged</aged>
+	<adolescent>Adolescent</adolescent>
+	<child>Child</child>
+	<preschool>Preschool</preschool>
+	<pregnancy>Pregnancy</pregnancy>
+	<infant>Infant</infant>
+	<newborn>Infant, Newborn</newborn>
+	<mh_cluster>Main subject</mh_cluster>
+	<ta_cluster>Journal</ta_cluster>
+	<la>Language</la>
+	<year_cluster>Year</year_cluster>
+	<mostrarmas>Show more...</mostrarmas>
+	<bwhere>where</bwhere>
+	<bfind>Search</bfind>
+	<ballindex>All indexes</ballindex>
+	<btitle>Title</btitle>
+	<bauthor>Author</bauthor>
+	<bsubject>Subject</bsubject>
+	<ballsourcecuba>BVS Cuba</ballsourcecuba>
+	<bcumed>Register of Scientific production in Health (cumed)</bcumed>
+    <bSCIELO_CUBA>Articles in scientific journals (SciELO Cuba)</bSCIELO_CUBA>
+	<blis>Health Information Locator (lis)</blis>
+	<beventdirectory>Health Events Directory</beventdirectory>
+    <ballsourceregional>BVS Regional</ballsourceregional>
+    <bgeneral>General Health Sciences</bgeneral>
+    <bLILACS>LILACS</bLILACS>
+    <bIBECS>IBECS</bIBECS>
+    <bMEDLINE>MEDLINE</bMEDLINE>
+    <bSPECIALIZED>Specialized Areas</bSPECIALIZED>
+    <bCIDSAUDE>CidSaúde</bCIDSAUDE>
+    <bDESASTRES>DESASTRES</bDESASTRES>
+    <bHISA>HISA</bHISA>
+    <bHOMEOINDEX>HOMEOINDEX</bHOMEOINDEX>
+    <bMEDCARIB>MedCarib</bMEDCARIB>
+    <bREPIDISCA>REPIDISCA</bREPIDISCA>
+    <bINTERNATIONAL>International Agencies</bINTERNATIONAL>
+    <bPAHO>PAHO</bPAHO>
+    <bWHOLIS>WHOLIS</bWHOLIS>
+    <bSITES>HIL - Internet Resources</bSITES>
+    <bCVSP>VCHP Repository</bCVSP>
+    <bDECS>DeCS - Health Sciences Descriptores</bDECS>
+    <bCOCHRANE>Cochrane Library</bCOCHRANE>
+    <bCOCHRANE_REVIEWS>Cochrane systematic reviews</bCOCHRANE_REVIEWS>
+    <bCOCHRANE_PROTOCOLS>Protocols of Cochrane systematic reviews</bCOCHRANE_PROTOCOLS>
+    <bCOCHRANE_CENTRAL>CENTRAL-The Cochrane controlled trials register</bCOCHRANE_CENTRAL>
+    <bCOCHRANE_CMR>The Cochrane Methodology Register</bCOCHRANE_CMR>
+    <bCOCHRANE_HTA>Abstracts by INAHTA and other healthcare technology agencies</bCOCHRANE_HTA>
+    <bCOCHRANE_EED_BIBLIO>Other economic studies NHS-EED</bCOCHRANE_EED_BIBLIO>
+    <bCOCHRANE_EED_ABSTRACTS>Critically appraised economic evaluations NHS-EED</bCOCHRANE_EED_ABSTRACTS>
+    <bCOCHRANE_DARE_ABSTRACTS>Abstracts of quality assessed systematic reviews</bCOCHRANE_DARE_ABSTRACTS>
+    <bCOCHRANE_AGENCIAS>Ibero-American Agencies of Assessment of Health Technologies</bCOCHRANE_AGENCIAS>
+    <bCOCHRANE_BANDOLIER>Bandolier</bCOCHRANE_BANDOLIER>
+    <bCOCHRANE_CLIBPLUSREFS>Ibero-American Clinical Trials Registry</bCOCHRANE_CLIBPLUSREFS>
+    <bCOCHRANE_EVIDARGENT>Evidence. Updating in ambulatory practice</bCOCHRANE_EVIDARGENT>
+    <bCOCHRANE_GESTION>Reports on Clinical and Health Management</bCOCHRANE_GESTION>
+    <bCOCHRANE_KOVACS>Trials on spinal pathologies - Kovacs</bCOCHRANE_KOVACS>
+	<urlcontrol>Driver URL</urlcontrol>
+	<resultpage>Results per page</resultpage>
+	<searchindex>Show search by index</searchindex>
+	<searchsource>Show search by source</searchsource>
+    <result>Results</result>
+    <of>of</of>
+    <nofoundresult>The search produced no results.</nofoundresult>
+</collection>

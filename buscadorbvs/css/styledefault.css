@@ -1,0 +1,174 @@
+/*
+Theme Name: bvsite
+Theme URI: 
+Description: Departamento de Desarrollo de Infomed
+Version: 1.0
+Author: Lucia Garcia 
+Author URI: 
+Tags: fixed width, three columns, valid XHTML, widgets
+*/
+
+.mas
+{
+    clear: both;	
+}
+
+.widget.widget_Infobuscador
+{
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-bottom: 10px;
+}
+
+.widget.widget_Infobuscador form
+{
+    font-family: Arial, Verdana, Helvetica;
+    font-size: 11px;
+    width: 85%;
+    float: right;
+}
+
+.widget.widget_Infobuscador form p label
+{
+    font-family: Arial, Verdana, Helvetica;
+    font-size: 11px;
+    float: left;
+    padding-top: 5px;
+}
+
+.widget.widget_Infobuscador form p input.text
+{
+    border: 1px solid #CCCCCC;
+    height: 17px;
+    width: 80%;
+}
+
+.widget.widget_Infobuscador form p input.submit
+{
+    margin-left: 1px;
+    padding: 0 10px 3px;
+}
+
+.widget.widget_Infobuscador form p select.select
+{
+    width: 100%;
+}
+
+.widget.widget_Infobuscador form p select.select1
+{
+    float: right;
+    width: 80%;
+}
+
+.widget.widget_Infobuscador form p.buscar
+{
+   width: 100%;
+}
+
+.widget.widget_Infobuscador form p.indice
+{
+   float: left;
+   width: 40%;
+}
+
+.widget.widget_Infobuscador form p.fuente
+{
+   float: right;
+   width: 50%;
+   margin-right: 30px;
+}
+
+.buscadorbvs-result-pag-header-item1, .buscadorbvs-result-pag-footer-item1
+{
+   float: right;
+   width: 30%;
+}
+
+.buscadorbvs-result-pag-header-item2, .buscadorbvs-result-pag-footer-item2
+{
+   margin-left: 30px;
+}
+
+
+.buscadorbvs-result-pag-header a, .buscadorbvs-result-pag-footer a,
+.buscadorbvs-result-pag-header a:visited, .buscadorbvs-result-pag-footer a:visited
+{
+   text-decoration: underline;
+}
+
+
+.buscadorbvs-result-ul
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.buscadorbvs-result-li
+{
+    margin-top: 15px;
+}
+
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li
+{
+    list-style-type: none;
+}
+
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .num
+{   
+    font-weight: bold;
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .texto a,
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .texto a:visited,
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .article a,
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .article a:visited
+{
+    font-size: 13px;
+}
+
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .article, 
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .source,
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .autor,
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li .texto 
+{
+    margin-left: 20px;
+}
+
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li h3 a, 
+.buscadorbvs-result .buscadorbvs-result-ul .buscadorbvs-result-li h3 a:visited, 
+.buscadorbvs-result-item h3
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.buscadorbvs-result-item h3
+{
+    font-size: 13px;
+    margin: 10px 10px 0;
+}
+
+.item-autor, .item-tipo, .buscadorbvs-result-item text, .item-asunto
+{
+   margin-left: 20px;
+}
+
+.subgroup
+{
+   margin-left: 20px; 
+   font-weight: normal;
+    
+}
+
+.terminores
+{
+   margin-left: 20px;  
+}
+
+.source
+{
+    color: #000000;
+}
